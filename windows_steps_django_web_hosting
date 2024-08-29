@@ -1,0 +1,7 @@
+1 cd .\Desktop\django_ml\
+2 ls
+3 pip install django
+4 pip install pandas
+5 pip install scikit-learn
+6 python .\manage.py runserver 0.0.0.0:8000
+7 

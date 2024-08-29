@@ -1,0 +1,23 @@
+1	ls
+2	cd django_ml/
+3	ls
+4	cd django_ml/
+5	ls
+6	sudo vi settings.py 
+7	pip3 --version
+8	sudo yum install python3-pip -y
+9	pip3 --version
+10	cd ..
+11	ls
+12	python3 manage.py runserver
+13	pip install django
+14	pip install pandas
+15	pip install scikit-learn
+16	python3 manage.py runserver
+17	sudo yum install firewalld
+18	sudo systemctl start firewalld
+19	sudo systemctl enable firewalld
+20	sudo systemctl status firewalld
+21	sudo firewall-cmd --zone=public --add-port=8000/tcp --permanent
+22	sudo firewall-cmd --reload
+23	python3 manage.py runserver 0.0.0.0:8000
